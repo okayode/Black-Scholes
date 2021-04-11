@@ -1,4 +1,6 @@
-clc; clear;
+clc; 
+clear;
+
 N=40;
 M=20;
 xo=log(2.0/5);
